@@ -7,7 +7,7 @@ gautamy672@gmail.com<br>
 
 # Create a New “System” panel in GNOME Settings
 
-## GENERAL DETAILS
+## General Details
 
 <b>Name:</b> Gotam Gorabh<br>
 <b>University:</b> Indian Institute of Information Technology, Kottayam<br>
@@ -21,7 +21,7 @@ gautamy672@gmail.com<br>
 <b>GitLab(Inkscape):</b> [Gau672tam](https://gitlab.com/Gau672tam)<br>
 <b>Size of the Project:</b> Large(350 Hours)<br>
 
-## DESCRIPTION
+## Description
 
 <b>GNOME Settings</b> (aka gnome-control-center) is a graphical user interface tool used in
 GNOME-based Linux distribution for managing system settings and preferences. This proposal
