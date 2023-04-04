@@ -81,3 +81,8 @@ I will delete that panel from the panel list.
 
 Also, take feedback from my mentors and design team members for any modification apart from
 mockups.
+
+## Please provide a sequence of tasks and subtasks and how long (days) you estimate it will take you to complete each of them. Highlight important milestones/deliverables.
+
+My proposed timeline for the tasks will be as follows:
+
