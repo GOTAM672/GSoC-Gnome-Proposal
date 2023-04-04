@@ -1,3 +1,3 @@
-# My_GSoC_Proposal
+# GNOME GSoC PROPOSAL
 
-This is my accepted proposal by the GNOME foundation in GNOME Settings project.
+<span style="color:green"><b>Gotam Gorabh</b></span>
