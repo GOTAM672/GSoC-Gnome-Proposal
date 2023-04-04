@@ -67,3 +67,17 @@ control system, and project management tools. I also understand the importance o
 documentation, and I always ensure that my code is well-documented.
 Overall, I believe that my skills, experience, passion, and commitment make me the right person
 to work on this project.
+
+## How do you plan to achieve the completion of your project?
+
+We have approx 12 weeks or even more to achieve the goal and have 5 panels to merge or
+implement it into the system panel. The plan is to first study the <b>Accessibility panel</b> for
+inspiration to make a minimalistic system panel.
+
+I’ll give approx 2 weeks for attaching each panel as a page to the system panel. <b>Within these 2
+weeks, I’ll work on eliminating any errors, and wrong coding standards and updating the
+UI with the help of my mentors and extensive use of documentation.</b> After successfully attaching of page,
+I will delete that panel from the panel list.
+
+Also, take feedback from my mentors and design team members for any modification apart from
+mockups.
