@@ -27,3 +27,8 @@ gautamy672@gmail.com<br>
 GNOME-based Linux distribution for managing system settings and preferences. This proposal
 plans to create a new system panel and move Region & Language, Date & Time, Users, and
 About panels into a new System panel.
+
+## Mentors
+
+- [Felipe Borges](https://gitlab.gnome.org/felipeborges) (@felipeborges)
+- [Georges Basile Stavracas Neto](https://gitlab.gnome.org/feaneron) (@feaneron)
