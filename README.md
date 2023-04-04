@@ -16,7 +16,7 @@ gautamy672@gmail.com<br>
 <b>Matrix ID:</b> @gautham_x:matrix.org<br>
 <b>IRC Nick:</b> Gotam Gorabh<br>
 <b>TimeZone:</b> India(GMT+5:30)<br>
-<b>GitHub:</b> GOTAM672<br>
-<b>GitLab(GNOME):</b> gautham_x<br>
-<b>GitLab(Inkscape):</b> Gau672tam<br>
+<b>GitHub:</b> [GOTAM672](https://github.com/GOTAM672)<br>
+<b>GitLab(GNOME):</b> [gautham_x](https://gitlab.gnome.org/gautham_x)<br>
+<b>GitLab(Inkscape):</b> [Gau672tam](https://gitlab.com/Gau672tam)<br>
 <b>Size of the Project:</b> Large(350 Hours)<br>
