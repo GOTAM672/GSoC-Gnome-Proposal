@@ -32,3 +32,7 @@ About panels into a new System panel.
 
 - [Felipe Borges](https://gitlab.gnome.org/felipeborges) (@felipeborges)
 - [Georges Basile Stavracas Neto](https://gitlab.gnome.org/feaneron) (@feaneron)
+
+## What city and country will you reside in during the summer?
+
+I will stay at my college in Pala, Kerala, India
