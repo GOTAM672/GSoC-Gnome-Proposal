@@ -86,3 +86,7 @@ mockups.
 
 My proposed timeline for the tasks will be as follows:
 
+<b>Before May 04</b>
+- I’ll continue working on the existing issues and my opened MR which is halted due to GNOME’s UI freeze schedule to get more understanding of the project.
+- Also, I’ll keep interacting with the GNOME community to help each other if needed.
+- Study the <b>GObject</b> concept.
