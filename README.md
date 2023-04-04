@@ -50,3 +50,20 @@ and <b>About</b> panels, and Implementing a <b>Remote Desktop</b> page into the 
 By creating a new system panel, we can provide a more streamlined and user-friendly
 experience for GNOME users. This will also make it easier for users to find the panel they’re
 looking for.
+
+## Why are you the right person to work on this project?
+
+I believe I am the right person to work on this project as I have prior experience working on
+open-source projects and I have been using GNOME for a long time. <b>During my contribution, I
+learned GTK, GObject, LibAdwaita, XML, UI, C, Git, etc.</b>
+
+Also, <b>I am aware of GNOME’s Newcomer’s guidelines, coding standards, and community
+working culture.</b> If I don’t know something, I try my best to learn it and don’t hesitate to ask
+questions.
+
+My previous contributions to GNOME and other open-source projects demonstrate my
+commitment to the open-source community. I am familiar with the development process, version
+control system, and project management tools. I also understand the importance of
+documentation, and I always ensure that my code is well-documented.
+Overall, I believe that my skills, experience, passion, and commitment make me the right person
+to work on this project.
