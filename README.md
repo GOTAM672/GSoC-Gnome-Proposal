@@ -36,3 +36,17 @@ About panels into a new System panel.
 ## What city and country will you reside in during the summer?
 
 I will stay at my college in Pala, Kerala, India
+
+## What applications/libraries of GNOME will the proposed work modify or create?
+
+GNOME Settings (aka gnome-control-center)
+
+## What benefits does your proposed work have for GNOME and its community?
+
+The goal of this project is to create a new system panel that will provide users with a unified
+interface for managing various settings by moving <b>Date & Time, Users, Region & Language,</b>
+and <b>About</b> panels, and Implementing a <b>Remote Desktop</b> page into the new system panel.
+
+By creating a new system panel, we can provide a more streamlined and user-friendly
+experience for GNOME users. This will also make it easier for users to find the panel they’re
+looking for.
