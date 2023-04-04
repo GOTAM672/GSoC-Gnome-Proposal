@@ -20,3 +20,10 @@ gautamy672@gmail.com<br>
 <b>GitLab(GNOME):</b> [gautham_x](https://gitlab.gnome.org/gautham_x)<br>
 <b>GitLab(Inkscape):</b> [Gau672tam](https://gitlab.com/Gau672tam)<br>
 <b>Size of the Project:</b> Large(350 Hours)<br>
+
+## DESCRIPTION
+
+<b>GNOME Settings</b> (aka gnome-control-center) is a graphical user interface tool used in
+GNOME-based Linux distribution for managing system settings and preferences. This proposal
+plans to create a new system panel and move Region & Language, Date & Time, Users, and
+About panels into a new System panel.
