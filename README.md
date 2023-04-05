@@ -90,3 +90,10 @@ My proposed timeline for the tasks will be as follows:
 - I’ll continue working on the existing issues and my opened MR which is halted due to GNOME’s UI freeze schedule to get more understanding of the project.
 - Also, I’ll keep interacting with the GNOME community to help each other if needed.
 - Study the <b>GObject</b> concept.
+
+<b>May 04 – May 28 (Community Bonding Period)</b>
+- With the help of my mentors, I’ll familiarize myself with the community and will try to know the culture and ethics of the organization.
+- Take inspiration from <b>Accessibility Panel’s</b> code implementation.
+- Understand how to implement <b>CcSystemPanel</b> class, <b>AdwLeaflet</b> page, and bind system panel to panel list.
+- Read and gather all the documentation and resources that will be used in this project.
+- With the help of my mentors, I’ll plan a timetable and weekly calls/meetings, to submit the weekly report and ask for additional resources.
