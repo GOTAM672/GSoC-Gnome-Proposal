@@ -97,3 +97,12 @@ My proposed timeline for the tasks will be as follows:
 - Understand how to implement <b>CcSystemPanel</b> class, <b>AdwLeaflet</b> page, and bind system panel to panel list.
 - Read and gather all the documentation and resources that will be used in this project.
 - With the help of my mentors, I’ll plan a timetable and weekly calls/meetings, to submit the weekly report and ask for additional resources.
+
+<b>May 29 – June 04 (Week 1) [System Panel Implementation]</b>
+- Create a <b>system panel</b> by implementing CcSystemPanel class.
+- Implement <b>AdwLeaflet</b> content page with temporary dead rows when clicked will open each page.
+- Add <b>.desktop.in, meson.build, .gresource.xml files</b>, and <b>icons</b> folder to the system panel folder.
+- Update necessary files and folders to bind the system panel to the panel list.
+- Run and test the minimalistic System Panel.
+- Eliminate errors, and wrong coding standards and update the UI with the help of my mentors and documentation
+- I implemented week 1 work [Here](https://gitlab.gnome.org/gautham_x/gnome-control-center/-/commit/cecf857a4b66c6e2339070233a892def292c950a) (At New-System-Panel Branch).
