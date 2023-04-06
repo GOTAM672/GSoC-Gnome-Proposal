@@ -116,3 +116,13 @@ My proposed timeline for the tasks will be as follows:
 - Eliminate errors, and wrong coding standards and update the UI with the help of my mentors and documentation.
 - Finally, delete Region & Language panel from the panel list.
 - The work done till now for weeks 2 & 3 is [Here](https://gitlab.gnome.org/gautham_x/gnome-control-center/-/commit/2ec28dbee7c95f547898d2ca1dd96b9a8bbb4a5a) (At New-System-Panel Branch)
+
+<b>June 19 – July 02 (Week 4 & Week 5) [Date & Time Page Implementation]</b>
+- Study the <b>Date & Time</b> panel code to identify the code that can be reused/refactored.
+- Use the <b>CcDateTimePanel</b> class code to create <b>CcSystemDatePage</b> class.
+- Implement the Date & Time page using <b>CcSystemDatePage</b> class and <b>AdwPreferencesPage</b> for the GUI part.
+- Bind this page to Date & Time row inside the <b>AdwLeaflet</b> page. Update necessary files and folders.
+- Run and test the Date & Time Page.
+- Eliminate errors, and wrong coding standards and update the UI with the help of my mentors and documentation.
+- Finally, delete Date & Time panel from the panel list.
+- The work done till now for weeks 4 & 5 is [Here](https://gitlab.gnome.org/gautham_x/gnome-control-center/-/commit/307aec8ebce3399742ba300fa369fcc19e5d4f0) (At New-System-Panel Branch).
