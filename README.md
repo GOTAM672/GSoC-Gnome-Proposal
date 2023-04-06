@@ -106,3 +106,13 @@ My proposed timeline for the tasks will be as follows:
 - Run and test the minimalistic System Panel.
 - Eliminate errors, and wrong coding standards and update the UI with the help of my mentors and documentation
 - I implemented week 1 work [Here](https://gitlab.gnome.org/gautham_x/gnome-control-center/-/commit/cecf857a4b66c6e2339070233a892def292c950a) (At New-System-Panel Branch).
+
+<b>June 05 – June 18 (Week 2 & Week 3) [Region & Language Page Implementation]</b>
+- Study <b>Region & Language</b> panel code to identify the code that can be reused/refactored.
+- Use the <b>CcRegionPanel</b> class code to create <b>CcSystemRegionPage</b> class.
+- Implement Region & Language page using <b>CcSystemRegionPage</b> class and <b>AdwPreferencesPage</b> for the GUI part.
+- Bind this page to Region & Language row inside the <b>AdwLeaflet</b> page. Update necessary files and folders.
+- Run and test the Region & Language Page.
+- Eliminate errors, and wrong coding standards and update the UI with the help of my mentors and documentation.
+- Finally, delete Region & Language panel from the panel list.
+- The work done till now for weeks 2 & 3 is [Here](https://gitlab.gnome.org/gautham_x/gnome-control-center/-/commit/2ec28dbee7c95f547898d2ca1dd96b9a8bbb4a5a) (At New-System-Panel Branch)
