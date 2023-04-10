@@ -128,7 +128,7 @@ My proposed timeline for the tasks will be as follows:
 - The work done till now for weeks 4 & 5 is [Here](https://gitlab.gnome.org/gautham_x/gnome-control-center/-/commit/307aec8ebce3399742ba300fa369fcc19e5d4f0) (At New-System-Panel Branch).
 
 <b>July 03 – July 09 (Week 6) [About Page Implementation]</b>
-- Study About panel code to identify the code that can be reused/refactored.
+- Study <b>About</b> panel code to identify the code that can be reused/refactored.
 - Use the CcInfoOverviewPanel class code to create CcSystemAboutPage class.
 - Implement the Users page using CcSystemAboutPage class and AdwPreferencesPage for the GUI part.
 - Bind this page to the Users row inside the AdwLeaflet page. Update necessary files and folders.
