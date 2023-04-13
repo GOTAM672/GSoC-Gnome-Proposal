@@ -129,9 +129,9 @@ My proposed timeline for the tasks will be as follows:
 
 <b>July 03 – July 09 (Week 6) [About Page Implementation]</b>
 - Study <b>About</b> panel code to identify the code that can be reused/refactored.
-- Use the CcInfoOverviewPanel class code to create CcSystemAboutPage class.
-- Implement the Users page using CcSystemAboutPage class and AdwPreferencesPage for the GUI part.
-- Bind this page to the Users row inside the AdwLeaflet page. Update necessary files and folders.
+- Use the <b>CcInfoOverviewPanel</b> class code to create <b>CcSystemAboutPage</b> class.
+- Implement the Users page using <b>CcSystemAboutPage</b> class and <b>AdwPreferencesPage</b> for the GUI part.
+- Bind this page to the Users row inside the <b>AdwLeaflet</b> page. Update necessary files and folders.
 - Run and test the About Page.
 - Eliminate errors, and wrong coding standards and update the UI with the help of my mentors and documentation.
 - Finally, delete the About panel from the panel list.
