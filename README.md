@@ -145,3 +145,5 @@ My proposed timeline for the tasks will be as follows:
 - Run and test the Users Page.
 - Eliminate errors, and wrong coding standards and update the UI with the help of my mentors and documentation.
 - Finally, delete the Users panel from the panel list.
+
+<b> August 04 – August 10 (Week 10) [Remote Desktop Page Implementation]</b>
