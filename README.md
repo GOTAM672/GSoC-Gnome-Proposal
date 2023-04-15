@@ -136,3 +136,12 @@ My proposed timeline for the tasks will be as follows:
 - Eliminate errors, and wrong coding standards and update the UI with the help of my mentors and documentation.
 - Finally, delete the About panel from the panel list.
 - The work done till now for week 6 is [Here](https://gitlab.gnome.org/gautham_x/gnome-control-center/-/commit/546a1d4ddaa516340ae1b0ff1d0d711c99c953e5) (At New-System-Panel Branch).
+
+<b>July 14 – August 03 (Week 7, Week 8 & Week 9) [Users Page Implementation]</b>
+- Study Users panel code to identify the code that can be reused/refactored.
+- Use the CcUserPanel class code to create CcSystemUsersPage class.
+- Implement the Users page using CcSystemUsersPage class and AdwPreferencesPage for the GUI part.
+- Bind this page to the Users row inside the AdwLeaflet page. Update necessary files and folders.
+- Run and test the Users Page.
+- Eliminate errors, and wrong coding standards and update the UI with the help of my mentors and documentation.
+- Finally, delete the Users panel from the panel list.
