@@ -147,7 +147,7 @@ My proposed timeline for the tasks will be as follows:
 - Finally, delete the Users panel from the panel list.
 
 <b> August 04 – August 10 (Week 10) [Remote Desktop Page Implementation]</b>
-- Implement a Remote Desktop page using CcSystemRemotePage class and AdwPreferencesPage for the GUI part.
+- Implement a Remote Desktop page using <b>CcSystemRemotePage</b> class and <b>AdwPreferencesPage</b> for the GUI part.
 - Inside Remote Desktop Page, use CcListRow to create Remote Desktop, Remote Control, Device Name, and Remote Desktop Address row.
 - use CcListRow with GtkEntry and GtkPasswordEntry to create a User Name and Password row.
 - Bind this page to the Remote Desktop row inside the AdwLeaflet page. Update necessary files and folders.
