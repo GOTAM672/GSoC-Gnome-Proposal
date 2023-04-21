@@ -146,10 +146,12 @@ My proposed timeline for the tasks will be as follows:
 - Eliminate errors, and wrong coding standards and update the UI with the help of my mentors and documentation.
 - Finally, delete the Users panel from the panel list.
 
-<b> August 04 – August 10 (Week 10) [Remote Desktop Page Implementation]</b>
+<b>August 04 – August 10 (Week 10) [Remote Desktop Page Implementation]</b>
 - Implement a Remote Desktop page using <b>CcSystemRemotePage</b> class and <b>AdwPreferencesPage</b> for the GUI part.
 - Inside Remote Desktop Page, use <b>CcListRow</b> to create Remote Desktop, Remote Control, Device Name, and Remote Desktop Address row.
 - use <b>CcListRow</b> with <b>GtkEntry</b> and <b>GtkPasswordEntry</b> to create a User Name and Password row.
 - Bind this page to the Remote Desktop row inside the <b>AdwLeaflet</b> page. Update necessary files and folders.
 - Use <b>GtkClipboard</b> to implement copy button.
 - The work done till now for weeks 9 & 10 is [Here](https://gitlab.gnome.org/gautham_x/gnome-control-center/-/commit/d1c85b318fee0ed96bf374c91cb7b414708d9336) (At New-System-Panel-Branch).
+
+<b>August 11 – August 24 (Week 11)</b>
