@@ -155,3 +155,11 @@ My proposed timeline for the tasks will be as follows:
 - The work done till now for weeks 9 & 10 is [Here](https://gitlab.gnome.org/gautham_x/gnome-control-center/-/commit/d1c85b318fee0ed96bf374c91cb7b414708d9336) (At New-System-Panel-Branch).
 
 <b>August 11 – August 24 (Week 11)</b>
+- Run and test the Remote Desktop Page.
+- Eliminate errors, and wrong coding standards and update the UI of Remote Desktop Page Implementation with the help of my mentors and documentation.
+- Also, Use AdwExpanderRow to Implement the System Start Options row.
+- Also, take feedback from my mentors and design team members for any modification.
+- Complete all pending works(if any) related to other pages.
+- If there is enough time, start a discussion on adding the unit test cases. With the help of mentors, I’ll Identify the modules or functions that need to be tested.
+- Also decide which unit testing framework will be used (possibly GLib or JUnit, NUnit, pytest).
+- If any errors are found during the testing, debug the code to identify the cause of the error and fix the errors.
