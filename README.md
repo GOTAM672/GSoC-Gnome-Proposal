@@ -163,3 +163,6 @@ My proposed timeline for the tasks will be as follows:
 - If there is enough time, start a discussion on <b>adding the unit test cases</b>. With the help of mentors, I’ll Identify the modules or functions that need to be tested.
 - Also decide which unit testing framework will be used (possibly <b>GLib or JUnit, NUnit, pytest</b>).
 - If any errors are found during the testing, debug the code to identify the cause of the error and fix the errors.
+
+<b>August 25 – August 31 (Week 12)</b>
+- This week is utilized as space for any possible delays or unforeseen events
