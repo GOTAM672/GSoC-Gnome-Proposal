@@ -156,10 +156,10 @@ My proposed timeline for the tasks will be as follows:
 
 <b>August 11 – August 24 (Week 11)</b>
 - Run and test the Remote Desktop Page.
-- Eliminate errors, and wrong coding standards and update the UI of Remote Desktop Page Implementation with the help of my mentors and documentation.
-- Also, Use AdwExpanderRow to Implement the System Start Options row.
+- Eliminate errors, and wrong coding standards and update the UI of <b>Remote Desktop Page</b> Implementation with the help of my mentors and documentation.
+- Also, Use <b>AdwExpanderRow</b> to Implement the <b>System Start Options</b> row.
 - Also, take feedback from my mentors and design team members for any modification.
 - Complete all pending works(if any) related to other pages.
-- If there is enough time, start a discussion on adding the unit test cases. With the help of mentors, I’ll Identify the modules or functions that need to be tested.
-- Also decide which unit testing framework will be used (possibly GLib or JUnit, NUnit, pytest).
+- If there is enough time, start a discussion on <b>adding the unit test cases</b>. With the help of mentors, I’ll Identify the modules or functions that need to be tested.
+- Also decide which unit testing framework will be used (possibly <b>GLib or JUnit, NUnit, pytest</b>).
 - If any errors are found during the testing, debug the code to identify the cause of the error and fix the errors.
