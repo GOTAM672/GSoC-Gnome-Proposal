@@ -166,3 +166,7 @@ My proposed timeline for the tasks will be as follows:
 
 <b>August 25 – August 31 (Week 12)</b>
 - This week is utilized as space for any possible delays or unforeseen events
+
+<b>Post GSoC Goals</b>
+- Continue working on GNOME and solve issues, and I’ll also try to implement pending mockups.
+- Working at GNOME is something I have enjoyed, so would like to continue it.
