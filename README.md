@@ -170,3 +170,25 @@ My proposed timeline for the tasks will be as follows:
 <b>Post GSoC Goals</b>
 - Continue working on GNOME and solve issues, and I’ll also try to implement pending mockups.
 - Working at GNOME is something I have enjoyed, so would like to continue it.
+
+<b>What are your past experiences with the open-source world as a user and as a contributor?</b>  
+
+I have a great experience with the open-source world as a user, which lead me to become a
+contributor as well.  
+
+From a user's perspective, I have been a long-time user of open-source software, including
+Linux, Git, and Inkscape. I'm a very enthusiastic user of Arch distribution with the GNOME
+desktop environment. And I wondered how these products were still free, so I decided to
+contribute to the open-source to pay my part. As a user, we have the privilege to make our
+(users’) voices heard directly by the project's maintainers.  
+
+From a contributor's perspective, That was a great moment for me when my first MR get
+merged into GNOME Nautilus and I feel proud that the code I wrote is now being used by
+thousands of people, however small the contribution may be. I began my open-source journey
+with GNOME and got the opportunity to meet and work with amazing people around the world.  
+
+Through my experiences as a user and contributor, I have developed a strong understanding
+of the importance of open-source software and the benefits it provides to developers and users
+alike. I have gained a deep understanding of the value of open-source software and the
+importance of collaborating with others to improve it. Also, open-source contribution teaches
+not only to develop software but also an attitude to play an active role in improving the world.
