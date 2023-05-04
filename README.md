@@ -183,7 +183,7 @@ contribute to the open-source to pay my part. As a user, we have the privilege t
 (users’) voices heard directly by the project's maintainers.  
 
 From a contributor's perspective, That was a great moment for me when my first MR get
-merged into GNOME Nautilus and I feel proud that the code I wrote is now being used by
+merged into <b>GNOME Nautilus</b> and I feel proud that the code I wrote is now being used by
 thousands of people, however small the contribution may be. I began my open-source journey
 with GNOME and got the opportunity to meet and work with amazing people around the world.  
 
