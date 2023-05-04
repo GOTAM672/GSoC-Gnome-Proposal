@@ -192,3 +192,10 @@ of the importance of open-source software and the benefits it provides to develo
 alike. I have gained a deep understanding of the value of open-source software and the
 importance of collaborating with others to improve it. Also, open-source contribution teaches
 not only to develop software but also an attitude to play an active role in improving the world.
+
+<b>Please include links to your code contributions which have already been
+merged, or to Gitlab merge requests for the issues you fixed for the
+project ofyour proposal or any other GNOME projects. This demonstrates
+your willingness to learn and familiarity with development workflow.</b>  
+My contributions to GNOME Settings(gnome-control-center) so far are described below:  
+- Updated Hotspot Dialog: [MR 1622](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/1622) [Merged]
