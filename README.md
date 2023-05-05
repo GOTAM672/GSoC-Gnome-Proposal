@@ -224,3 +224,45 @@ contributed to <b>Inkscape Project</b>. Here are my contributions to <b>Inkscape
 - Fix differences in position of Infobox for different display-unit. [MR 4944](https://gitlab.com/inkscape/inkscape/-/merge_requests/4944) [Merged]
 - Replace html tags with an open and close parenthesis. [MR 4813](https://gitlab.com/inkscape/inkscape/-/merge_requests/4813) [Merged]
 - Enlarge Autosave Entry Field. [MR 4730](https://gitlab.com/inkscape/inkscape/-/merge_requests/4730) [Open]
+
+<b>What other relevant projects have you worked on previously and what
+knowledge have you gained from working on them?</b>
+
+Not worked on any direct relevant project...
+
+But I did a GUI project, which is used to convert an image from one format to another format.
+This project is written in Go programming language and for the GUI part I used NuxUI. [Project
+ImageFormater](https://github.com/GOTAM672/ImageFormater)
+From this project I learned...
+- Go Programming Language
+- NuxUI
+- How to compile and run a Go base project.
+
+<b>What other time commitments, such as school work, exams, research,
+another job, planned vacation, etc? What are the dates for these
+commitments and howmany hours a week do these commitments take?</b>
+
+I will take GSoC as a full-time commitment for 3 months (May, June, and July) because of my
+semester break. During this semester break, I will devote 40-45 hours a week to the project.
+After August 1, My 7th semester will start and the company starts visiting my college for hiring
+students. So for preparing for Interviews and Exams, I will devote only 30-35 hours a week to
+the project.
+
+<b>About Me</b>     
+
+I am pursuing B.Tech in Computer Science and Engineering from the Indian Institute of
+Information Technology, Kottayam. I am currently in my pre-final year.I love to learn and try new stuff in my free time and <b>I believe in learning by doing</b>. Currently,
+I am learning <b>Rust Programming language</b> via project building, and contributing to rust opensource projects.
+
+Being a student of a technical institute, I have learned <b>Data Structures & algorithms,
+problem solving-skills, C, C++, Go, GTK, and Shell scripting</b>. Also learned some other
+technical concepts like Computer-Networks, Operating-System, and DBMS.Becoming a <b>DevOps</b> engineer is my long-term career goal. I want to be part of a team that
+builds innovative software products that make a difference. I believe that DevOps skills are
+essential to achieving this goal, and I’m excited to learn more and contribute to this field.
+
+My goal for this project is to gain experience working on a large-scale open-source project and
+make a meaningful contribution to the community. I am excited about the project because it
+aligns with my interests and offers an opportunity to learn new skills and work with talented
+individuals.Also wants to keep contributing to meaningful projects, to give back to the community by
+sharing my knowledge, learning from the community, developing new skills, enhancing existing
+projects, and building new projects.
