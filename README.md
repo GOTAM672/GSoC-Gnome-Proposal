@@ -232,7 +232,8 @@ Not worked on any direct relevant project...
 
 But I did a GUI project, which is used to convert an image from one format to another format.
 This project is written in Go programming language and for the GUI part I used NuxUI. [Project
-ImageFormater](https://github.com/GOTAM672/ImageFormater)
+ImageFormater](https://github.com/GOTAM672/ImageFormater) 
+
 From this project I learned...
 - Go Programming Language
 - NuxUI
