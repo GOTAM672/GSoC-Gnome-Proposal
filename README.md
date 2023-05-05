@@ -204,3 +204,5 @@ My contributions to GNOME Settings(gnome-control-center) so far are described be
 - Fixed cancel button issue: [MR 1732](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/1732) [Merged]
 - Redesigned remove user dialog: [MR 1584](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/1584) [Open]
 - Updated Forget Connection dialog with AdwMessageDialog: [MR 1699](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/1699) [Open]
+
+Apart from these contributions, I also contributed to some other GNOME projects.
