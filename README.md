@@ -206,3 +206,10 @@ My contributions to GNOME Settings(gnome-control-center) so far are described be
 - Updated Forget Connection dialog with AdwMessageDialog: [MR 1699](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/1699) [Open]
 
 Apart from these contributions, I also contributed to some other GNOME projects.
+- GIMP: Added scrolled window to TIFF description field. [MR 745](https://gitlab.gnome.org/GNOME/gimp/-/merge_requests/745) [Merged]
+- GNOME Epiphany: Used suitable tooltip-text for bookmark icon. [MR 1271](https://gitlab.gnome.org/GNOME/epiphany/-/merge_requests/1271) [Merged]
+- GNOME Nautilus: Used consistent language. [MR 930](https://gitlab.gnome.org/GNOME/nautilus/-/merge_requests/930) [Merged]
+- GNOME Nautilus: Removed trailing ellipsis. [MR 1012](https://gitlab.gnome.org/GNOME/nautilus/-/merge_requests/1012) [Merged]
+- GNOME Nautilus: Added trailing ellipsis. [MR 986](https://gitlab.gnome.org/GNOME/nautilus/-/merge_requests/986) [Merged]
+- GNOME Photos: Addes tooltip-text to UI elements. [MR 260](https://gitlab.gnome.org/GNOME/gnome-photos/-/merge_requests/260) [Open]
+- GNOME Calendar: Used lock-icon for read-only calendars. [MR 304](https://gitlab.gnome.org/GNOME/gnome-calendar/-/merge_requests/304) [Open]
