@@ -196,7 +196,8 @@ not only to develop software but also an attitude to play an active role in impr
 <b>Please include links to your code contributions which have already been
 merged, or to Gitlab merge requests for the issues you fixed for the
 project ofyour proposal or any other GNOME projects. This demonstrates
-your willingness to learn and familiarity with development workflow.</b>  
+your willingness to learn and familiarity with development workflow.</b>    
+
 My contributions to GNOME Settings(gnome-control-center) so far are described below:  
 - Updated Hotspot Dialog: [MR 1622](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/1622) [Merged]
 - Removed account activity window: [MR 1559](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/1559) [Merged]
@@ -213,3 +214,13 @@ Apart from these contributions, I also contributed to some other GNOME projects.
 - GNOME Nautilus: Added trailing ellipsis. [MR 986](https://gitlab.gnome.org/GNOME/nautilus/-/merge_requests/986) [Merged]
 - GNOME Photos: Addes tooltip-text to UI elements. [MR 260](https://gitlab.gnome.org/GNOME/gnome-photos/-/merge_requests/260) [Open]
 - GNOME Calendar: Used lock-icon for read-only calendars. [MR 304](https://gitlab.gnome.org/GNOME/gnome-calendar/-/merge_requests/304) [Open]
+
+<b>If available, please include links to any code you wrote for other opensourceprojects.</b>    
+
+I started my Open-Source journey with GNOME. But other than GNOME projects I also
+contributed to <b>Inkscape Project</b>. Here are my contributions to <b>Inkscape:</b>    
+- Adding Clone task operation to context menu. [MR 5050](https://gitlab.com/inkscape/inkscape/-/merge_requests/5050) [Merged]
+- Fix overlapping info box in measurement tool. [MR 4728](https://gitlab.com/inkscape/inkscape/-/merge_requests/4728) [Merged]
+- Fix differences in position of Infobox for different display-unit. [MR 4944](https://gitlab.com/inkscape/inkscape/-/merge_requests/4944) [Merged]
+- Replace html tags with an open and close parenthesis. [MR 4813](https://gitlab.com/inkscape/inkscape/-/merge_requests/4813) [Merged]
+- Enlarge Autosave Entry Field. [MR 4730](https://gitlab.com/inkscape/inkscape/-/merge_requests/4730) [Open]
