@@ -199,3 +199,8 @@ project ofyour proposal or any other GNOME projects. This demonstrates
 your willingness to learn and familiarity with development workflow.</b>  
 My contributions to GNOME Settings(gnome-control-center) so far are described below:  
 - Updated Hotspot Dialog: [MR 1622](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/1622) [Merged]
+- Removed account activity window: [MR 1559](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/1559) [Merged]
+- Renamed ‘Test Your Settings’ button: [MR 1486](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/1486) [Merged]
+- Fixed cancel button issue: [MR 1732](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/1732) [Merged]
+- Redesigned remove user dialog: [MR 1584](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/1584) [Open]
+- Updated Forget Connection dialog with AdwMessageDialog: [MR 1699](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/1699) [Open]
