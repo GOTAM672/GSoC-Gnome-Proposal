@@ -35,7 +35,7 @@ About panels into a new System panel.
 
 ## What city and country will you reside in during the summer?
 
-I will stay at my college in Pala, Kerala, India
+I will stay at my college in Pala, Kerala, India.
 
 ## What applications/libraries of GNOME will the proposed work modify or create?
 
